@@ -1,22 +1,22 @@
 
 <p align="center">
   <a href="https://github.com/LazyDeveloperr/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=LazyDeveloper&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Rolex&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/LazyDeveloperr/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Not%20a%20app%20and%20BOT%20developer;But%20This%2is%20Starting;2%2B%20years%20of%20Telegram%20experience;Always%20learning%20new%20things;Movies%20Channel%20OWNER&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
- Trust me! I'm not Lazy 😒
+ I'm Just 15 Years Old! But I Am Gold 😁
 </p>
 
 # <p align="center">❤️ Community ❤️</p>
 </p>
 <p align="center">
-<a href="https://instagram.com/LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LazyDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TamillRockerznet"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
