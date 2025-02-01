@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/LazyDeveloperr/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Not%20a%20app%20and%20BOT%20developer;But%20This%2is%20Starting;2%2B%20years%20of%20Telegram%20experience;Always%20learning%20new%20things;Movies%20Channel%20OWNER&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Not%20a%20app%20and%20BOT%20developer;But%20This%20is%20Starting;2%2B%20years%20of%20Telegram%20experience;Always%20learning%20new%20things;Movies%20Channel%20OWNER&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
